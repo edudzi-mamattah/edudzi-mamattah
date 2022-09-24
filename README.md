@@ -1,6 +1,6 @@
-- Hi 👋, I’m Edudzi
+Hi 👋, I’m Edudzi 
 
-- My intersts are:
+My intersts are:
 - Data Science
 - ML Engineering
 - AI Engineering
