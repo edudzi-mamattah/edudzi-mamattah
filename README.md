@@ -35,8 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edudzi-mamattah&show_icons=true&locale=en&layout=compact" alt="edudzi-mamattah" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edudzi-mamattah&show_icons=true&locale=en" alt="edudzi-mamattah" /></p>
 <!---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edudzi-mamattah&show_icons=true&locale=en" alt="edudzi-mamattah" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edudzi-mamattah&" alt="edudzi-mamattah" /></p>
 --->
