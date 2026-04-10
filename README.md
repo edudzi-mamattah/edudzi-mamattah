@@ -10,7 +10,7 @@ My intersts are:
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://twitter.com/edudzi_mamattah?s=03" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edudzi_mamattah" height="30" width="40" /></a>
+<a href="https://twitter.com/edudzi_mamattah?s=03" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/edudzi-mamattah" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Edudzi Mamattah" height="30" width="40" /></a>
 
 </p>
