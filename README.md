@@ -1,9 +1,11 @@
 Hi 👋, I’m Edudzi 
 
 My intersts are:
+- AI Development
+- ML/AI Engineering
 - Data Science
-- ML Engineering
-- AI Engineering
+- Data Analysis
+- Software Development
 - Research into new AI developments
 
 <h3 align="left">Connect with me on:</h3>
